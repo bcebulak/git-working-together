@@ -7,3 +7,5 @@ A change while changes are stagged.
 A third change!
 
 Changing code in compare 
+
+5th change - 
