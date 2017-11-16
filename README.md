@@ -9,3 +9,7 @@ A third change!
 Changing code in compare 
 
 5th change - 
+
+6th change - 
+
+7th local change
